@@ -1,10 +1,4 @@
-//
-//  AppDelegate.swift
-//  gitcore
-//
-//  Created by M Murteza  on 10/8/17.
-//  Copyright © 2017 M Murteza . All rights reserved.
-//
+
 
 import UIKit
 
